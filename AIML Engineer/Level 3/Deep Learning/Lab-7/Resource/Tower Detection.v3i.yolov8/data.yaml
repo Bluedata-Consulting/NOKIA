@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['GSM Antenna', 'GSM Antenna ', 'Microwave Antenna']
+
+roboflow:
+  workspace: object-detection-yolo-c8gsd
+  project: tower-detection-tff1p
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/object-detection-yolo-c8gsd/tower-detection-tff1p/dataset/3
