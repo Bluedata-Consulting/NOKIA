@@ -1,0 +1,1001 @@
+Customer_ID,Age,Gender,Segment,Monthly_Spend,Churn_Risk,Preferred_Channel,Service_Usage,Income,Premium_Plan,Campaign_Response
+CUST_1,56,Male,Medium-Value,776,Low,Social Media,8757,47302,Yes,Positive
+CUST_2,46,Female,Medium-Value,711,Medium,App Notification,7582,31283,No,Positive
+CUST_3,32,Female,High-Value,993,Medium,Email,9182,50935,No,Negative
+CUST_4,60,Female,Low-Value,132,Medium,Email,3769,92534,No,Negative
+CUST_5,25,Male,Medium-Value,671,Low,Social Media,7907,114342,No,Negative
+CUST_6,38,Male,Medium-Value,996,High,App Notification,946,51624,Yes,Positive
+CUST_7,56,Male,High-Value,948,Medium,App Notification,8704,33440,Yes,Positive
+CUST_8,36,Male,Low-Value,475,Low,Social Media,4833,66501,Yes,Positive
+CUST_9,40,Male,Medium-Value,324,Medium,SMS,1120,107333,Yes,Positive
+CUST_10,28,Male,High-Value,762,Low,Email,9469,21269,Yes,Positive
+CUST_11,28,Male,High-Value,333,Low,SMS,7208,27868,Yes,Negative
+CUST_12,41,Male,Medium-Value,222,High,Email,2581,50251,No,Positive
+CUST_13,53,Female,Medium-Value,376,Low,Email,3818,97909,No,Negative
+CUST_14,57,Female,High-Value,767,Low,SMS,9189,104523,Yes,Positive
+CUST_15,41,Male,Low-Value,112,High,Social Media,4643,58729,Yes,Positive
+CUST_16,20,Male,High-Value,122,Medium,Social Media,472,35734,No,Positive
+CUST_17,39,Female,Medium-Value,812,Low,Email,1973,62429,Yes,Positive
+CUST_18,19,Male,Low-Value,685,Low,Social Media,2747,61337,Yes,Positive
+CUST_19,41,Male,Medium-Value,424,Low,Email,3364,60325,Yes,Negative
+CUST_20,61,Male,Medium-Value,682,Medium,Social Media,4980,103600,No,Negative
+CUST_21,47,Female,Medium-Value,557,Low,Email,1146,82514,No,Positive
+CUST_22,55,Female,High-Value,836,Low,Social Media,706,28433,Yes,Positive
+CUST_23,19,Female,Low-Value,992,High,App Notification,6919,29111,No,Negative
+CUST_24,38,Female,Medium-Value,447,Medium,SMS,8635,83753,No,Positive
+CUST_25,50,Female,Low-Value,169,Low,App Notification,8897,100583,No,Positive
+CUST_26,29,Male,High-Value,983,Medium,SMS,6560,93620,No,Positive
+CUST_27,39,Female,High-Value,486,Medium,SMS,7857,41751,No,Negative
+CUST_28,61,Male,High-Value,878,Low,Email,3790,36453,Yes,Positive
+CUST_29,42,Male,Medium-Value,725,Low,SMS,1392,105844,Yes,Positive
+CUST_30,44,Female,Medium-Value,985,High,App Notification,1664,58968,No,Negative
+CUST_31,59,Female,Low-Value,514,Low,App Notification,590,50077,No,Positive
+CUST_32,45,Male,Medium-Value,335,Medium,Social Media,5815,54775,No,Positive
+CUST_33,33,Male,Low-Value,314,Low,App Notification,6306,78144,No,Positive
+CUST_34,32,Male,High-Value,369,Low,Social Media,9064,68570,No,Negative
+CUST_35,64,Female,Low-Value,722,Low,SMS,2760,66097,Yes,Positive
+CUST_36,61,Female,Low-Value,425,Low,App Notification,6067,44503,No,Negative
+CUST_37,20,Female,Low-Value,869,Low,SMS,1411,22779,No,Negative
+CUST_38,54,Female,Low-Value,138,Low,App Notification,9321,106840,No,Positive
+CUST_39,24,Female,Low-Value,703,High,App Notification,1739,20755,No,Negative
+CUST_40,38,Male,Medium-Value,252,High,Social Media,9304,59263,No,Positive
+CUST_41,26,Female,High-Value,870,Medium,SMS,843,75087,Yes,Positive
+CUST_42,56,Male,High-Value,788,High,App Notification,8893,62281,No,Positive
+CUST_43,35,Male,Low-Value,383,Low,Email,9121,71482,Yes,Positive
+CUST_44,21,Male,Medium-Value,271,High,SMS,1483,74857,No,Positive
+CUST_45,42,Female,Low-Value,90,Low,SMS,7880,37400,No,Positive
+CUST_46,31,Female,Medium-Value,757,High,SMS,7545,60115,Yes,Positive
+CUST_47,26,Female,High-Value,117,High,Social Media,4586,34249,No,Negative
+CUST_48,43,Male,High-Value,825,Medium,Email,1119,66825,No,Positive
+CUST_49,19,Male,Medium-Value,563,High,SMS,2539,44600,No,Negative
+CUST_50,37,Male,Medium-Value,922,Medium,App Notification,9147,57706,Yes,Positive
+CUST_51,45,Male,High-Value,686,Low,App Notification,6130,39222,No,Positive
+CUST_52,64,Male,Medium-Value,671,Low,Social Media,5602,119041,No,Positive
+CUST_53,24,Male,High-Value,647,Medium,App Notification,5863,61139,No,Positive
+CUST_54,61,Female,Medium-Value,986,Low,SMS,5475,61302,Yes,Positive
+CUST_55,25,Female,High-Value,681,Medium,App Notification,707,114684,No,Negative
+CUST_56,64,Female,Low-Value,176,High,SMS,1636,107838,No,Negative
+CUST_57,52,Female,Medium-Value,304,Low,App Notification,8950,88159,Yes,Negative
+CUST_58,31,Male,Medium-Value,744,Medium,Email,7554,28646,Yes,Positive
+CUST_59,34,Male,High-Value,65,High,Social Media,4716,33543,Yes,Negative
+CUST_60,53,Female,High-Value,526,High,Social Media,3822,114496,No,Positive
+CUST_61,57,Male,Medium-Value,111,High,Email,4599,42785,No,Positive
+CUST_62,21,Female,Medium-Value,930,Medium,Email,5237,98353,No,Negative
+CUST_63,19,Female,Medium-Value,481,High,Social Media,8311,51406,Yes,Negative
+CUST_64,23,Female,High-Value,719,Medium,Email,3915,108992,No,Positive
+CUST_65,59,Male,Medium-Value,317,Low,SMS,8037,71428,Yes,Positive
+CUST_66,21,Female,Low-Value,84,Low,App Notification,1501,43777,Yes,Positive
+CUST_67,46,Female,Low-Value,828,Medium,Social Media,7570,77939,No,Negative
+CUST_68,35,Female,High-Value,625,Low,Email,5385,73026,Yes,Positive
+CUST_69,43,Male,Medium-Value,543,Medium,SMS,2355,106450,No,Negative
+CUST_70,61,Male,High-Value,611,Medium,Social Media,6611,49553,Yes,Positive
+CUST_71,51,Female,High-Value,518,Low,Email,6565,43548,No,Positive
+CUST_72,27,Male,Low-Value,816,Medium,Social Media,892,83221,No,Positive
+CUST_73,53,Male,High-Value,710,Medium,Email,1678,57265,No,Positive
+CUST_74,31,Male,Medium-Value,374,Low,Social Media,6596,60701,Yes,Positive
+CUST_75,48,Male,Medium-Value,353,Low,SMS,8648,71287,Yes,Negative
+CUST_76,32,Male,Low-Value,325,Low,SMS,641,26727,No,Negative
+CUST_77,25,Male,Medium-Value,918,Low,App Notification,2846,70717,Yes,Negative
+CUST_78,31,Male,High-Value,733,High,Social Media,5409,52427,No,Negative
+CUST_79,40,Male,Medium-Value,978,Low,App Notification,6733,36692,No,Negative
+CUST_80,57,Male,Medium-Value,250,Medium,Social Media,4877,51625,Yes,Positive
+CUST_81,38,Male,High-Value,494,Low,Email,7411,44918,Yes,Negative
+CUST_82,33,Female,Medium-Value,954,Low,Email,2845,61136,No,Positive
+CUST_83,62,Female,High-Value,373,High,App Notification,8410,72409,No,Positive
+CUST_84,35,Male,High-Value,84,Medium,Social Media,9516,35577,No,Positive
+CUST_85,64,Female,Medium-Value,531,Low,App Notification,8133,105155,No,Positive
+CUST_86,41,Female,High-Value,777,Low,SMS,5676,119246,No,Positive
+CUST_87,43,Male,Medium-Value,529,Low,App Notification,8128,101731,Yes,Negative
+CUST_88,42,Male,Medium-Value,114,Low,App Notification,2280,47689,No,Positive
+CUST_89,62,Male,Low-Value,57,Medium,Email,6289,31154,No,Positive
+CUST_90,58,Female,High-Value,350,Low,App Notification,7596,114948,Yes,Positive
+CUST_91,46,Female,High-Value,392,Low,Social Media,9939,41341,Yes,Positive
+CUST_92,32,Male,High-Value,480,Low,Email,7997,117554,Yes,Positive
+CUST_93,62,Male,Medium-Value,473,High,App Notification,1061,94681,Yes,Positive
+CUST_94,18,Male,Low-Value,381,High,SMS,8546,66330,No,Positive
+CUST_95,42,Female,High-Value,487,Low,App Notification,3694,107759,Yes,Positive
+CUST_96,24,Female,Low-Value,637,Medium,App Notification,1104,88416,Yes,Negative
+CUST_97,26,Female,High-Value,223,Low,App Notification,1469,106807,Yes,Negative
+CUST_98,41,Female,Medium-Value,608,Low,Email,604,53313,No,Positive
+CUST_99,18,Male,Low-Value,576,Medium,Social Media,9235,66900,No,Positive
+CUST_100,61,Male,Low-Value,922,High,SMS,9956,98840,No,Positive
+CUST_101,25,Male,Low-Value,708,High,App Notification,1384,54695,Yes,Negative
+CUST_102,41,Male,Low-Value,75,Medium,Social Media,9138,50225,No,Positive
+CUST_103,28,Female,Medium-Value,869,Low,Social Media,1925,106072,No,Positive
+CUST_104,34,Female,Low-Value,654,Medium,Email,8662,116367,Yes,Negative
+CUST_105,25,Male,High-Value,455,Low,SMS,6011,69156,Yes,Positive
+CUST_106,52,Male,Low-Value,281,Medium,Email,5806,97209,Yes,Positive
+CUST_107,52,Female,Medium-Value,582,Low,Social Media,4156,107453,Yes,Positive
+CUST_108,50,Male,Low-Value,868,Medium,Social Media,371,47829,No,Negative
+CUST_109,22,Female,Medium-Value,599,Low,Social Media,8665,100908,No,Negative
+CUST_110,59,Male,Medium-Value,837,Low,Email,2506,45938,No,Negative
+CUST_111,56,Male,Medium-Value,554,High,SMS,9550,79164,No,Positive
+CUST_112,58,Male,Low-Value,718,Low,App Notification,621,74530,No,Positive
+CUST_113,45,Male,High-Value,228,Medium,Email,5740,88199,No,Negative
+CUST_114,24,Male,High-Value,181,Low,Social Media,9601,80282,No,Negative
+CUST_115,26,Male,High-Value,872,Low,Email,4875,67801,Yes,Positive
+CUST_116,25,Male,High-Value,504,Low,Social Media,9282,29465,Yes,Negative
+CUST_117,29,Female,Low-Value,397,Low,App Notification,6948,23326,No,Positive
+CUST_118,51,Female,High-Value,589,High,App Notification,6303,23659,Yes,Positive
+CUST_119,50,Female,Low-Value,821,Low,SMS,1673,80289,Yes,Negative
+CUST_120,40,Female,Medium-Value,455,High,Social Media,3443,47594,No,Positive
+CUST_121,41,Female,High-Value,125,Medium,SMS,2381,24763,No,Negative
+CUST_122,54,Male,Low-Value,990,Low,SMS,9841,108657,No,Positive
+CUST_123,52,Male,Medium-Value,628,Medium,App Notification,3296,30828,No,Positive
+CUST_124,61,Female,Medium-Value,903,Medium,Email,6846,67588,No,Negative
+CUST_125,57,Male,Medium-Value,541,Medium,Email,9982,31221,No,Negative
+CUST_126,39,Female,Low-Value,243,Low,SMS,6082,31211,No,Positive
+CUST_127,44,Female,High-Value,211,Low,App Notification,6182,33569,No,Positive
+CUST_128,52,Male,Low-Value,396,High,Social Media,5998,116894,No,Negative
+CUST_129,18,Male,Low-Value,410,High,Email,9827,57860,No,Positive
+CUST_130,52,Male,Medium-Value,818,High,SMS,8615,91558,No,Negative
+CUST_131,54,Female,High-Value,633,Low,Email,8611,65337,No,Negative
+CUST_132,64,Male,Medium-Value,136,Medium,Email,8656,72311,Yes,Positive
+CUST_133,31,Female,High-Value,983,Low,Social Media,9345,33515,Yes,Positive
+CUST_134,20,Female,High-Value,311,Low,App Notification,4724,91695,Yes,Positive
+CUST_135,18,Female,High-Value,263,Low,Social Media,6759,107227,No,Negative
+CUST_136,22,Male,Medium-Value,714,Medium,App Notification,7820,44904,Yes,Positive
+CUST_137,43,Male,Low-Value,771,Low,Email,2974,79935,Yes,Positive
+CUST_138,31,Female,Low-Value,962,Low,SMS,5873,63790,No,Positive
+CUST_139,56,Male,Low-Value,622,High,Social Media,3324,88580,Yes,Positive
+CUST_140,44,Male,Medium-Value,829,Low,App Notification,8871,95148,No,Positive
+CUST_141,26,Male,Medium-Value,311,Low,Email,1553,25636,Yes,Positive
+CUST_142,32,Female,Medium-Value,779,Low,App Notification,9281,97129,No,Negative
+CUST_143,32,Female,Low-Value,332,High,App Notification,4054,22892,No,Negative
+CUST_144,43,Male,High-Value,697,Medium,App Notification,8334,41672,No,Negative
+CUST_145,59,Female,Low-Value,516,Low,Email,1124,25812,No,Positive
+CUST_146,30,Male,Medium-Value,429,High,SMS,2370,116621,No,Positive
+CUST_147,49,Male,Medium-Value,411,High,SMS,5706,20654,Yes,Negative
+CUST_148,56,Male,Low-Value,498,Low,SMS,2595,74633,Yes,Positive
+CUST_149,49,Male,Medium-Value,490,Medium,App Notification,8420,37143,Yes,Negative
+CUST_150,21,Female,Low-Value,142,Medium,Email,8426,75934,No,Negative
+CUST_151,47,Female,Low-Value,670,Medium,App Notification,5715,87334,No,Positive
+CUST_152,54,Female,Medium-Value,802,Low,SMS,2870,49087,No,Negative
+CUST_153,40,Male,High-Value,916,High,SMS,3565,31618,Yes,Negative
+CUST_154,56,Male,Medium-Value,473,Medium,Email,788,28446,No,Positive
+CUST_155,62,Male,Low-Value,191,Low,App Notification,3338,107182,No,Positive
+CUST_156,32,Female,High-Value,340,Low,Social Media,9295,68867,No,Positive
+CUST_157,60,Male,Medium-Value,481,Low,Social Media,6863,71028,No,Positive
+CUST_158,46,Female,Medium-Value,798,Low,SMS,4286,80101,Yes,Positive
+CUST_159,53,Female,Low-Value,901,Medium,Email,8731,47200,No,Positive
+CUST_160,30,Female,High-Value,873,Low,App Notification,4470,115107,No,Negative
+CUST_161,49,Female,Low-Value,738,Low,App Notification,6219,108074,Yes,Positive
+CUST_162,24,Female,Low-Value,702,Medium,SMS,756,81465,Yes,Positive
+CUST_163,39,Female,High-Value,750,Low,SMS,8222,106436,No,Negative
+CUST_164,45,Male,High-Value,98,High,App Notification,5652,107892,No,Positive
+CUST_165,19,Male,Low-Value,351,Low,App Notification,3767,108559,No,Negative
+CUST_166,59,Female,High-Value,930,Low,SMS,4099,59148,Yes,Positive
+CUST_167,62,Female,Low-Value,239,Low,App Notification,6677,102928,No,Positive
+CUST_168,23,Male,Medium-Value,185,Low,Social Media,7700,40698,No,Positive
+CUST_169,45,Female,High-Value,604,Low,SMS,1216,62470,No,Negative
+CUST_170,45,Female,Low-Value,453,Medium,App Notification,6670,112071,No,Positive
+CUST_171,61,Male,Medium-Value,941,High,SMS,2262,71660,Yes,Negative
+CUST_172,61,Female,Medium-Value,914,Low,Email,9230,73910,No,Positive
+CUST_173,37,Female,Medium-Value,651,Medium,SMS,4521,55450,Yes,Positive
+CUST_174,47,Female,Medium-Value,856,Medium,SMS,3696,76463,No,Positive
+CUST_175,28,Male,High-Value,390,High,Email,2013,53757,No,Negative
+CUST_176,45,Male,Medium-Value,806,Low,Social Media,6456,98012,No,Negative
+CUST_177,42,Male,Low-Value,994,Low,App Notification,9843,90247,No,Positive
+CUST_178,56,Female,High-Value,753,Low,Email,2513,92015,No,Positive
+CUST_179,50,Female,Medium-Value,367,Medium,SMS,9906,51390,No,Positive
+CUST_180,18,Male,Medium-Value,667,High,App Notification,1431,76116,No,Positive
+CUST_181,44,Female,Low-Value,412,Low,Email,6031,33161,No,Positive
+CUST_182,30,Female,High-Value,871,Low,App Notification,3199,52152,No,Negative
+CUST_183,58,Female,Low-Value,431,High,App Notification,3640,100171,No,Negative
+CUST_184,20,Female,Medium-Value,282,High,Email,4256,115833,Yes,Positive
+CUST_185,56,Female,High-Value,826,High,App Notification,505,40836,No,Positive
+CUST_186,23,Male,High-Value,393,Medium,Social Media,1889,110367,Yes,Negative
+CUST_187,25,Female,High-Value,598,Low,Email,9909,86543,No,Negative
+CUST_188,44,Male,Medium-Value,866,Medium,Social Media,4117,75648,Yes,Positive
+CUST_189,26,Female,Medium-Value,602,Medium,SMS,7280,46331,No,Positive
+CUST_190,54,Male,Low-Value,578,Low,App Notification,8811,30763,No,Positive
+CUST_191,50,Female,Medium-Value,905,Medium,SMS,3136,89444,No,Positive
+CUST_192,59,Male,High-Value,838,Medium,SMS,4062,113109,No,Positive
+CUST_193,61,Female,Medium-Value,868,Low,App Notification,9842,39187,Yes,Positive
+CUST_194,41,Male,Low-Value,620,Medium,Email,5849,31957,Yes,Negative
+CUST_195,32,Female,High-Value,984,Medium,App Notification,3461,24379,Yes,Positive
+CUST_196,49,Male,High-Value,232,High,SMS,9556,47959,No,Positive
+CUST_197,49,Female,High-Value,90,Low,SMS,2019,102018,No,Positive
+CUST_198,41,Male,Low-Value,600,Low,Email,1542,47105,No,Negative
+CUST_199,58,Male,Medium-Value,446,Medium,App Notification,5760,20877,Yes,Negative
+CUST_200,29,Female,Medium-Value,753,Low,SMS,2426,68353,Yes,Positive
+CUST_201,56,Female,Low-Value,828,Medium,Social Media,1279,103788,No,Positive
+CUST_202,19,Male,Low-Value,543,Medium,SMS,4406,116870,No,Negative
+CUST_203,20,Female,Medium-Value,708,Low,SMS,6480,104585,No,Positive
+CUST_204,54,Male,Low-Value,956,Medium,Email,7435,103308,No,Positive
+CUST_205,34,Male,High-Value,382,Medium,Social Media,1013,71567,No,Positive
+CUST_206,19,Male,High-Value,176,Low,SMS,5289,77913,Yes,Positive
+CUST_207,19,Female,High-Value,607,High,SMS,2231,22637,No,Positive
+CUST_208,45,Male,High-Value,606,High,Social Media,8714,92778,No,Negative
+CUST_209,40,Male,Medium-Value,50,Medium,App Notification,9295,62025,Yes,Negative
+CUST_210,54,Female,Low-Value,217,Medium,App Notification,9933,119508,No,Positive
+CUST_211,49,Female,High-Value,669,Low,SMS,6111,102464,Yes,Negative
+CUST_212,50,Female,High-Value,68,High,SMS,2853,48742,No,Positive
+CUST_213,18,Female,Medium-Value,381,Medium,App Notification,3540,31831,Yes,Positive
+CUST_214,36,Male,Low-Value,633,Medium,Email,8076,105092,No,Positive
+CUST_215,19,Male,Medium-Value,505,High,Social Media,1341,110879,Yes,Negative
+CUST_216,61,Male,Medium-Value,158,Low,Social Media,9241,108370,No,Positive
+CUST_217,43,Male,High-Value,317,High,Email,8758,66762,No,Positive
+CUST_218,49,Female,High-Value,494,Low,Email,3097,118958,No,Negative
+CUST_219,23,Male,Low-Value,289,Low,Email,9481,108741,No,Negative
+CUST_220,49,Male,Low-Value,978,Low,Email,4241,38830,No,Negative
+CUST_221,21,Female,High-Value,350,High,Email,2238,75044,Yes,Positive
+CUST_222,28,Male,Low-Value,651,High,Email,4470,93948,Yes,Positive
+CUST_223,34,Male,Medium-Value,152,Medium,Social Media,4883,89202,Yes,Positive
+CUST_224,55,Male,Low-Value,299,Medium,Email,694,57045,No,Positive
+CUST_225,41,Male,Medium-Value,502,Medium,App Notification,7316,106322,Yes,Negative
+CUST_226,22,Male,Medium-Value,569,High,Email,1984,91051,No,Positive
+CUST_227,51,Male,Medium-Value,202,Low,Email,3710,46627,No,Positive
+CUST_228,23,Female,Medium-Value,908,Low,Social Media,3986,35198,Yes,Negative
+CUST_229,39,Female,High-Value,223,Low,Social Media,5466,89521,Yes,Positive
+CUST_230,28,Male,High-Value,392,Medium,Email,9390,49475,Yes,Positive
+CUST_231,33,Male,Medium-Value,719,Medium,Social Media,5628,39403,No,Negative
+CUST_232,50,Female,Low-Value,480,Low,SMS,6881,23681,Yes,Negative
+CUST_233,26,Male,High-Value,776,Low,Social Media,7093,111555,Yes,Negative
+CUST_234,23,Male,Medium-Value,738,High,Social Media,9843,113122,No,Positive
+CUST_235,33,Male,Low-Value,736,Low,Social Media,4858,62292,No,Positive
+CUST_236,46,Female,High-Value,901,Medium,Social Media,7282,25629,Yes,Negative
+CUST_237,20,Male,Medium-Value,899,High,App Notification,7069,113246,Yes,Positive
+CUST_238,37,Female,Medium-Value,707,Low,App Notification,7807,115864,Yes,Positive
+CUST_239,53,Male,Low-Value,373,Low,App Notification,7869,97814,No,Negative
+CUST_240,36,Female,High-Value,722,Medium,Email,6419,28417,No,Positive
+CUST_241,43,Female,Medium-Value,688,High,Email,4734,54765,Yes,Negative
+CUST_242,20,Male,Low-Value,469,Medium,SMS,6179,94499,Yes,Positive
+CUST_243,36,Female,Low-Value,643,High,App Notification,9090,76574,No,Positive
+CUST_244,37,Male,Medium-Value,534,Low,Email,1512,110545,No,Positive
+CUST_245,49,Female,Medium-Value,708,Medium,Social Media,3162,47675,Yes,Negative
+CUST_246,24,Male,Medium-Value,800,Medium,Social Media,3138,92267,No,Positive
+CUST_247,58,Male,Low-Value,461,High,App Notification,3397,60563,Yes,Positive
+CUST_248,50,Female,Medium-Value,985,Low,SMS,5496,31332,Yes,Negative
+CUST_249,57,Male,High-Value,133,High,SMS,7404,39177,No,Negative
+CUST_250,56,Male,Low-Value,162,Medium,Social Media,5930,109254,No,Negative
+CUST_251,35,Female,Medium-Value,786,Low,SMS,326,88447,No,Positive
+CUST_252,57,Male,Medium-Value,381,Low,App Notification,5802,77104,No,Positive
+CUST_253,18,Male,High-Value,427,High,Social Media,1391,104335,No,Negative
+CUST_254,28,Female,Medium-Value,804,Low,Email,2839,100730,No,Negative
+CUST_255,45,Female,Medium-Value,704,Low,Email,1566,24951,No,Positive
+CUST_256,42,Male,Medium-Value,90,Low,SMS,9411,48333,No,Positive
+CUST_257,40,Male,High-Value,984,High,Social Media,6653,41673,No,Negative
+CUST_258,48,Female,Medium-Value,819,Medium,Social Media,6871,60870,Yes,Positive
+CUST_259,47,Female,Low-Value,846,Medium,Email,6883,91101,No,Negative
+CUST_260,59,Male,High-Value,154,Low,Social Media,4739,42821,No,Positive
+CUST_261,52,Female,Low-Value,251,Medium,Social Media,9076,45494,No,Positive
+CUST_262,24,Male,Medium-Value,499,Medium,Social Media,3087,119477,Yes,Negative
+CUST_263,33,Male,Low-Value,868,High,SMS,9854,94160,No,Positive
+CUST_264,43,Male,Low-Value,892,High,Social Media,4286,20835,No,Positive
+CUST_265,19,Male,Medium-Value,315,Low,App Notification,2461,38646,Yes,Positive
+CUST_266,18,Male,Low-Value,959,Medium,SMS,4380,97360,No,Positive
+CUST_267,29,Female,Low-Value,259,Low,Social Media,3041,57335,Yes,Negative
+CUST_268,22,Female,Medium-Value,612,Medium,Social Media,6240,89351,Yes,Negative
+CUST_269,54,Female,Medium-Value,167,Low,App Notification,3760,22429,No,Negative
+CUST_270,49,Female,Medium-Value,762,Low,SMS,4958,61950,No,Positive
+CUST_271,26,Male,Low-Value,426,Low,Email,826,80654,No,Positive
+CUST_272,58,Male,Low-Value,600,Medium,Email,5214,88143,Yes,Positive
+CUST_273,52,Male,Low-Value,589,Low,SMS,1575,111186,No,Negative
+CUST_274,36,Male,Medium-Value,820,Medium,Social Media,1381,117889,Yes,Negative
+CUST_275,33,Female,Low-Value,133,Low,Social Media,5908,97527,Yes,Negative
+CUST_276,20,Male,High-Value,503,Low,Email,690,106704,Yes,Positive
+CUST_277,37,Male,Medium-Value,716,Medium,Email,3929,51099,No,Positive
+CUST_278,41,Female,High-Value,678,Low,Email,6174,59385,No,Positive
+CUST_279,50,Female,Medium-Value,563,Low,App Notification,3734,55919,No,Positive
+CUST_280,41,Female,Medium-Value,654,Medium,Email,3496,116952,No,Positive
+CUST_281,28,Female,Medium-Value,727,Low,App Notification,2140,80782,Yes,Negative
+CUST_282,25,Male,Medium-Value,436,Low,SMS,5214,91116,No,Positive
+CUST_283,53,Male,Medium-Value,961,Low,Social Media,2082,92590,No,Positive
+CUST_284,55,Female,Medium-Value,399,High,Email,5108,109626,No,Positive
+CUST_285,57,Male,High-Value,345,Medium,Social Media,3187,60387,Yes,Negative
+CUST_286,37,Male,Medium-Value,307,Medium,Social Media,5785,35823,No,Positive
+CUST_287,52,Male,High-Value,130,Medium,Email,3359,66015,No,Negative
+CUST_288,42,Female,High-Value,986,Low,Email,4730,35339,No,Negative
+CUST_289,52,Male,Medium-Value,317,Low,SMS,881,23491,No,Positive
+CUST_290,42,Female,Medium-Value,468,Medium,App Notification,5454,20706,Yes,Negative
+CUST_291,46,Male,Medium-Value,284,Low,App Notification,1273,117493,No,Positive
+CUST_292,35,Male,Medium-Value,882,Low,Social Media,2587,35728,Yes,Positive
+CUST_293,63,Male,Medium-Value,360,Low,Email,2893,26997,No,Negative
+CUST_294,35,Female,Low-Value,862,Low,SMS,9762,80408,No,Negative
+CUST_295,19,Male,Medium-Value,406,High,SMS,4540,78097,Yes,Positive
+CUST_296,52,Female,Medium-Value,262,Low,SMS,2356,58523,No,Positive
+CUST_297,33,Female,High-Value,623,Medium,SMS,8166,45163,No,Positive
+CUST_298,58,Female,Medium-Value,98,Low,SMS,2780,37718,Yes,Positive
+CUST_299,53,Male,Medium-Value,176,High,App Notification,7457,107508,No,Positive
+CUST_300,50,Male,Medium-Value,272,Low,App Notification,2359,103767,Yes,Positive
+CUST_301,21,Male,Medium-Value,970,Low,App Notification,6972,59619,No,Positive
+CUST_302,50,Male,Medium-Value,328,Medium,Email,1827,32126,No,Negative
+CUST_303,31,Female,Medium-Value,457,Medium,Social Media,8419,109131,No,Positive
+CUST_304,38,Female,Low-Value,554,Low,SMS,7280,84926,No,Positive
+CUST_305,37,Female,Low-Value,343,Low,Email,2185,60633,No,Positive
+CUST_306,25,Male,Low-Value,845,Low,SMS,9913,97654,No,Negative
+CUST_307,24,Female,Low-Value,326,Low,App Notification,8688,23317,Yes,Positive
+CUST_308,20,Male,High-Value,487,Low,Email,2381,64980,No,Positive
+CUST_309,34,Female,High-Value,156,Low,App Notification,2496,64115,No,Positive
+CUST_310,50,Male,High-Value,707,Low,SMS,7364,81646,Yes,Negative
+CUST_311,29,Male,Medium-Value,469,Low,SMS,2797,63158,No,Positive
+CUST_312,39,Female,Low-Value,660,Medium,Social Media,1101,75963,No,Negative
+CUST_313,39,Female,High-Value,478,High,SMS,6260,67631,No,Negative
+CUST_314,63,Female,Low-Value,424,Medium,App Notification,9490,69316,Yes,Negative
+CUST_315,47,Female,High-Value,122,Low,SMS,1877,79342,Yes,Negative
+CUST_316,55,Male,Low-Value,998,Low,Social Media,3081,35504,Yes,Positive
+CUST_317,55,Female,Medium-Value,683,High,Social Media,5822,88593,No,Positive
+CUST_318,62,Female,High-Value,79,Low,App Notification,8252,46660,Yes,Negative
+CUST_319,25,Female,Medium-Value,237,Low,Email,1578,57196,No,Positive
+CUST_320,44,Male,High-Value,413,Medium,SMS,1448,85938,Yes,Positive
+CUST_321,44,Male,High-Value,915,Medium,Social Media,5850,28605,No,Negative
+CUST_322,51,Female,Medium-Value,849,Medium,SMS,6279,77388,Yes,Positive
+CUST_323,38,Male,Low-Value,500,Low,SMS,9656,101297,No,Positive
+CUST_324,47,Female,Medium-Value,244,Low,Email,7236,75501,Yes,Positive
+CUST_325,50,Male,Medium-Value,205,High,Social Media,6687,73309,No,Positive
+CUST_326,45,Male,Medium-Value,221,Low,SMS,1258,47043,Yes,Negative
+CUST_327,64,Male,Low-Value,896,Medium,Social Media,2248,53635,No,Positive
+CUST_328,50,Male,High-Value,90,Medium,App Notification,6315,99315,No,Positive
+CUST_329,22,Female,Medium-Value,112,Medium,App Notification,4448,100691,Yes,Positive
+CUST_330,36,Female,High-Value,72,Low,SMS,2676,53132,No,Negative
+CUST_331,21,Female,High-Value,409,Low,Social Media,4803,109387,No,Negative
+CUST_332,52,Male,Medium-Value,124,Medium,SMS,3753,35366,Yes,Positive
+CUST_333,34,Female,High-Value,609,High,Social Media,420,113944,No,Negative
+CUST_334,61,Female,Medium-Value,721,High,Social Media,5018,92107,Yes,Positive
+CUST_335,45,Female,Low-Value,874,Low,Email,7392,82580,No,Negative
+CUST_336,47,Male,High-Value,167,Low,Email,4823,77889,No,Positive
+CUST_337,46,Male,Medium-Value,661,High,Email,7549,99553,Yes,Negative
+CUST_338,63,Male,High-Value,429,Medium,SMS,5818,59236,No,Positive
+CUST_339,23,Female,Low-Value,978,High,Email,7409,24150,No,Positive
+CUST_340,52,Female,Medium-Value,969,Low,Email,4776,39423,No,Positive
+CUST_341,58,Female,Low-Value,728,Medium,App Notification,2071,24137,No,Negative
+CUST_342,54,Male,Medium-Value,339,Medium,Social Media,8115,49992,No,Positive
+CUST_343,41,Male,High-Value,489,Medium,Social Media,1662,114438,No,Negative
+CUST_344,46,Female,Medium-Value,717,Low,Email,5721,64921,Yes,Positive
+CUST_345,63,Male,Low-Value,982,Low,Social Media,8736,99369,No,Positive
+CUST_346,48,Male,Medium-Value,56,Medium,App Notification,8436,86917,No,Positive
+CUST_347,52,Male,Low-Value,245,Low,App Notification,8013,93690,No,Negative
+CUST_348,50,Male,Low-Value,470,Low,Email,2268,54235,No,Positive
+CUST_349,38,Female,High-Value,617,High,App Notification,5953,98975,No,Negative
+CUST_350,49,Male,High-Value,882,Low,Social Media,7437,39122,No,Negative
+CUST_351,40,Male,Medium-Value,242,High,SMS,7216,43956,No,Negative
+CUST_352,50,Male,Medium-Value,608,Low,Social Media,6391,83879,Yes,Positive
+CUST_353,20,Male,Low-Value,197,Medium,SMS,1714,78560,No,Negative
+CUST_354,35,Female,Low-Value,836,High,Email,2798,102800,No,Negative
+CUST_355,42,Female,Medium-Value,718,Low,SMS,1201,88685,Yes,Positive
+CUST_356,59,Male,High-Value,251,Low,App Notification,1233,44660,No,Negative
+CUST_357,48,Male,Low-Value,493,Low,Social Media,7099,106064,No,Positive
+CUST_358,20,Male,High-Value,963,Low,SMS,8665,21168,Yes,Positive
+CUST_359,57,Male,Low-Value,468,Medium,Social Media,5251,65124,Yes,Positive
+CUST_360,63,Male,Medium-Value,476,High,Email,4676,55897,Yes,Positive
+CUST_361,41,Male,Medium-Value,528,Low,Email,678,35032,No,Positive
+CUST_362,49,Female,High-Value,524,Low,App Notification,715,72797,Yes,Positive
+CUST_363,64,Male,Medium-Value,175,Low,Email,1391,55294,Yes,Negative
+CUST_364,39,Female,Medium-Value,444,Medium,SMS,6497,63827,No,Positive
+CUST_365,40,Female,Medium-Value,866,Low,Email,9803,23516,Yes,Positive
+CUST_366,19,Male,High-Value,930,Medium,App Notification,471,39751,Yes,Positive
+CUST_367,44,Female,Low-Value,855,Medium,Social Media,8534,50373,Yes,Positive
+CUST_368,59,Female,Low-Value,625,Medium,Social Media,7978,50270,No,Negative
+CUST_369,19,Female,High-Value,374,Low,Email,6208,30386,No,Positive
+CUST_370,43,Female,High-Value,441,Medium,SMS,8187,84817,Yes,Negative
+CUST_371,34,Female,High-Value,979,Low,App Notification,3532,85184,No,Positive
+CUST_372,57,Female,Medium-Value,737,Low,SMS,987,99693,No,Negative
+CUST_373,50,Male,Medium-Value,677,High,App Notification,6422,57879,Yes,Positive
+CUST_374,26,Female,Medium-Value,489,Medium,Email,822,69597,Yes,Positive
+CUST_375,60,Female,High-Value,253,Low,App Notification,4041,59132,Yes,Negative
+CUST_376,56,Female,Medium-Value,535,Low,App Notification,3876,23626,No,Positive
+CUST_377,46,Male,Medium-Value,882,Low,Email,2772,105936,No,Negative
+CUST_378,59,Female,Medium-Value,80,Low,SMS,7115,101515,Yes,Negative
+CUST_379,43,Male,Low-Value,437,Low,Email,5233,97065,No,Positive
+CUST_380,52,Female,High-Value,674,Low,App Notification,7988,75390,Yes,Positive
+CUST_381,42,Male,Medium-Value,926,Low,Email,5414,36645,No,Positive
+CUST_382,41,Male,Medium-Value,483,Medium,App Notification,4912,111960,No,Negative
+CUST_383,30,Female,Medium-Value,886,Medium,Email,266,74144,Yes,Negative
+CUST_384,24,Female,Low-Value,975,Medium,Social Media,7733,33382,No,Positive
+CUST_385,53,Male,Medium-Value,425,Low,Social Media,4816,24025,Yes,Positive
+CUST_386,62,Female,Low-Value,393,High,Email,1340,63226,No,Positive
+CUST_387,37,Male,High-Value,492,High,SMS,5930,99380,Yes,Negative
+CUST_388,18,Male,High-Value,628,High,App Notification,7665,89711,No,Positive
+CUST_389,25,Male,Low-Value,124,High,Social Media,9579,116055,Yes,Positive
+CUST_390,63,Male,Medium-Value,606,High,SMS,4671,94710,No,Negative
+CUST_391,33,Male,High-Value,821,Medium,App Notification,3539,23443,Yes,Positive
+CUST_392,31,Female,High-Value,715,Low,Social Media,748,41395,No,Positive
+CUST_393,29,Male,High-Value,204,Medium,Social Media,7875,30725,Yes,Negative
+CUST_394,40,Male,Low-Value,479,Medium,Email,8464,53461,No,Negative
+CUST_395,32,Female,High-Value,412,Medium,App Notification,398,61115,Yes,Positive
+CUST_396,45,Male,Medium-Value,497,Medium,SMS,771,116887,Yes,Positive
+CUST_397,51,Female,High-Value,283,Low,SMS,990,103732,No,Positive
+CUST_398,19,Female,Medium-Value,612,Low,SMS,1374,99790,Yes,Positive
+CUST_399,49,Female,High-Value,867,High,App Notification,378,99557,Yes,Negative
+CUST_400,40,Male,Medium-Value,311,Medium,SMS,2444,91260,No,Positive
+CUST_401,39,Male,High-Value,876,Medium,SMS,4286,48690,No,Negative
+CUST_402,42,Male,Low-Value,174,Low,SMS,934,21407,Yes,Negative
+CUST_403,39,Female,High-Value,960,Low,Email,6432,93568,No,Positive
+CUST_404,39,Male,Medium-Value,294,High,Email,998,78560,No,Positive
+CUST_405,59,Female,Low-Value,591,Medium,App Notification,7801,67340,Yes,Positive
+CUST_406,23,Male,Medium-Value,987,Medium,App Notification,9179,37794,No,Negative
+CUST_407,32,Female,Medium-Value,534,Low,SMS,2995,39881,No,Negative
+CUST_408,60,Male,Medium-Value,171,Medium,Email,4788,106292,No,Positive
+CUST_409,54,Male,Medium-Value,174,Low,Social Media,7497,114952,Yes,Negative
+CUST_410,50,Male,Medium-Value,598,Medium,Social Media,3284,69703,No,Positive
+CUST_411,25,Female,Low-Value,219,Low,SMS,931,64354,Yes,Negative
+CUST_412,61,Female,Medium-Value,173,Low,SMS,1329,111288,Yes,Positive
+CUST_413,61,Male,Medium-Value,918,Medium,Email,1805,98462,Yes,Positive
+CUST_414,22,Male,Low-Value,84,High,Email,3133,119301,No,Negative
+CUST_415,56,Female,Medium-Value,136,Low,Email,9607,34390,No,Positive
+CUST_416,21,Female,High-Value,695,High,App Notification,8716,107475,No,Positive
+CUST_417,23,Female,Medium-Value,757,Low,App Notification,5274,47307,No,Positive
+CUST_418,62,Male,Low-Value,835,Low,SMS,7299,116364,Yes,Positive
+CUST_419,49,Female,High-Value,250,Low,App Notification,1690,114049,Yes,Positive
+CUST_420,47,Male,Medium-Value,418,Low,Email,1093,44502,Yes,Negative
+CUST_421,64,Female,High-Value,846,Medium,Email,1590,115599,Yes,Positive
+CUST_422,52,Male,Medium-Value,126,Low,App Notification,3589,42486,No,Positive
+CUST_423,57,Female,High-Value,108,Low,Social Media,4439,58258,No,Negative
+CUST_424,33,Female,Medium-Value,480,High,SMS,4679,77716,Yes,Positive
+CUST_425,30,Female,Low-Value,687,Low,Social Media,2463,117228,Yes,Positive
+CUST_426,59,Female,Medium-Value,549,Medium,SMS,3632,101494,Yes,Negative
+CUST_427,47,Female,Medium-Value,962,Low,Social Media,2571,102768,No,Negative
+CUST_428,36,Male,Low-Value,158,Medium,App Notification,4512,30748,No,Negative
+CUST_429,34,Female,Low-Value,785,Low,SMS,1715,82785,No,Negative
+CUST_430,36,Female,High-Value,327,Low,SMS,6526,96050,No,Positive
+CUST_431,45,Female,Medium-Value,117,Low,SMS,7288,42738,No,Negative
+CUST_432,43,Male,High-Value,118,Low,Email,5786,94231,Yes,Positive
+CUST_433,54,Female,Low-Value,214,Low,Email,3117,93606,Yes,Negative
+CUST_434,43,Male,Low-Value,538,Medium,Social Media,5931,113301,No,Positive
+CUST_435,40,Female,Medium-Value,354,High,App Notification,7886,61662,No,Negative
+CUST_436,26,Female,Low-Value,958,High,Email,1367,116297,Yes,Negative
+CUST_437,29,Male,Medium-Value,723,Medium,SMS,8502,102234,No,Negative
+CUST_438,18,Female,Medium-Value,414,Low,Email,5309,35123,No,Positive
+CUST_439,18,Male,High-Value,903,Low,App Notification,4527,45616,No,Positive
+CUST_440,64,Male,Low-Value,870,Low,Email,6010,31182,No,Negative
+CUST_441,51,Female,High-Value,428,Low,SMS,3855,110369,No,Negative
+CUST_442,49,Male,Low-Value,392,Medium,Social Media,3993,118878,No,Positive
+CUST_443,42,Female,Low-Value,996,Medium,SMS,6938,82013,Yes,Negative
+CUST_444,57,Female,Low-Value,948,Low,App Notification,1777,51331,Yes,Negative
+CUST_445,62,Male,High-Value,603,Low,Social Media,9688,66098,Yes,Positive
+CUST_446,18,Male,Medium-Value,403,High,Email,2420,46128,Yes,Negative
+CUST_447,33,Male,High-Value,465,Medium,Email,9364,51556,No,Positive
+CUST_448,56,Male,Medium-Value,158,Low,Email,1230,107505,No,Positive
+CUST_449,22,Female,High-Value,612,High,Social Media,6891,41876,Yes,Positive
+CUST_450,39,Female,Low-Value,811,High,SMS,4192,28949,No,Positive
+CUST_451,46,Male,Medium-Value,546,Low,Social Media,1113,71962,Yes,Negative
+CUST_452,20,Female,Medium-Value,390,Low,Social Media,6558,110054,Yes,Positive
+CUST_453,29,Female,Medium-Value,991,Medium,App Notification,2381,91206,Yes,Negative
+CUST_454,43,Female,Medium-Value,432,High,Social Media,3397,44099,Yes,Negative
+CUST_455,33,Female,Medium-Value,582,High,Email,6240,32716,Yes,Negative
+CUST_456,54,Male,Medium-Value,349,Low,SMS,1662,72611,No,Positive
+CUST_457,39,Male,Low-Value,188,Low,SMS,7237,58885,No,Negative
+CUST_458,46,Female,Medium-Value,408,Medium,SMS,9699,73144,No,Positive
+CUST_459,31,Male,Low-Value,885,Medium,Email,5194,85220,Yes,Positive
+CUST_460,45,Male,Low-Value,548,Low,Email,9581,27837,Yes,Positive
+CUST_461,22,Male,High-Value,434,High,Email,5508,69355,Yes,Positive
+CUST_462,64,Female,Low-Value,653,Medium,Email,6421,67299,No,Negative
+CUST_463,47,Female,High-Value,329,High,Email,7290,39159,Yes,Positive
+CUST_464,63,Female,Low-Value,686,High,Social Media,7969,71012,No,Negative
+CUST_465,22,Male,Medium-Value,532,Medium,Email,887,79305,No,Positive
+CUST_466,29,Female,Low-Value,958,Low,Email,4861,107096,No,Positive
+CUST_467,33,Female,Low-Value,160,Medium,Email,9599,37106,No,Negative
+CUST_468,43,Male,Low-Value,915,Low,Email,2094,78123,Yes,Negative
+CUST_469,43,Female,Low-Value,188,Medium,SMS,7589,28720,Yes,Positive
+CUST_470,38,Female,Medium-Value,484,Low,Email,5122,57661,Yes,Positive
+CUST_471,56,Male,High-Value,558,Medium,Social Media,6522,113898,No,Positive
+CUST_472,53,Male,Medium-Value,322,Low,Social Media,3383,113794,Yes,Positive
+CUST_473,50,Male,High-Value,148,Low,Social Media,3997,107318,Yes,Negative
+CUST_474,47,Female,Medium-Value,813,Low,App Notification,5378,41120,No,Negative
+CUST_475,54,Female,Medium-Value,899,Low,SMS,4168,39790,Yes,Positive
+CUST_476,40,Female,Low-Value,153,Medium,Email,2916,78655,No,Negative
+CUST_477,27,Male,Medium-Value,263,Medium,App Notification,390,79643,No,Positive
+CUST_478,22,Male,Low-Value,810,Medium,Email,1535,113448,Yes,Positive
+CUST_479,53,Female,High-Value,713,Low,App Notification,8381,67374,Yes,Positive
+CUST_480,51,Female,Low-Value,811,Low,App Notification,578,62907,Yes,Negative
+CUST_481,48,Male,Low-Value,836,Low,Social Media,4029,70071,No,Positive
+CUST_482,27,Male,Medium-Value,214,Low,Social Media,6580,54812,No,Positive
+CUST_483,36,Male,Medium-Value,902,High,App Notification,815,69570,No,Positive
+CUST_484,49,Male,Low-Value,569,Low,Social Media,2530,70901,No,Positive
+CUST_485,18,Female,High-Value,333,Low,App Notification,1954,80186,No,Negative
+CUST_486,22,Male,Medium-Value,566,Low,SMS,663,70251,Yes,Positive
+CUST_487,62,Female,Medium-Value,706,Low,Social Media,9358,85171,Yes,Positive
+CUST_488,21,Female,High-Value,662,Medium,Social Media,4467,56160,No,Negative
+CUST_489,33,Female,Medium-Value,213,Medium,Social Media,3358,39156,Yes,Negative
+CUST_490,41,Male,High-Value,935,Low,SMS,3824,96208,Yes,Negative
+CUST_491,33,Male,High-Value,708,Low,App Notification,5138,99980,No,Positive
+CUST_492,19,Male,High-Value,113,Low,Email,5617,92320,No,Positive
+CUST_493,45,Male,Low-Value,140,Low,Social Media,6204,37929,No,Positive
+CUST_494,49,Female,Medium-Value,166,Low,App Notification,9081,86606,No,Positive
+CUST_495,44,Male,Low-Value,915,High,SMS,5803,108442,Yes,Negative
+CUST_496,37,Male,Medium-Value,316,Medium,Email,2412,82559,No,Positive
+CUST_497,41,Female,Medium-Value,871,Medium,Social Media,6320,74205,Yes,Positive
+CUST_498,29,Male,Medium-Value,734,Low,SMS,6018,88475,Yes,Positive
+CUST_499,52,Female,Medium-Value,608,Low,SMS,582,84341,No,Positive
+CUST_500,50,Female,High-Value,189,Medium,Email,2456,115377,Yes,Negative
+CUST_501,50,Female,Medium-Value,295,Medium,App Notification,1612,62863,No,Positive
+CUST_502,60,Female,High-Value,710,Medium,Social Media,9975,101837,Yes,Positive
+CUST_503,54,Female,Medium-Value,807,Low,Social Media,6346,85439,No,Positive
+CUST_504,29,Female,Medium-Value,444,Medium,App Notification,571,27194,Yes,Positive
+CUST_505,20,Female,High-Value,536,Low,App Notification,6006,91387,No,Positive
+CUST_506,18,Female,High-Value,525,High,App Notification,5765,101914,No,Negative
+CUST_507,50,Male,Low-Value,566,Medium,Email,9002,86214,Yes,Positive
+CUST_508,57,Male,Medium-Value,233,Medium,Email,8507,116176,Yes,Negative
+CUST_509,27,Male,High-Value,69,Low,Social Media,7637,119292,Yes,Negative
+CUST_510,60,Male,Low-Value,986,Medium,Email,646,49777,Yes,Negative
+CUST_511,61,Female,High-Value,607,Low,SMS,1591,46183,No,Negative
+CUST_512,46,Male,Medium-Value,573,Low,Social Media,1540,47445,No,Positive
+CUST_513,30,Female,Low-Value,631,Low,Email,3139,87038,Yes,Positive
+CUST_514,29,Male,High-Value,578,Medium,App Notification,6169,107201,Yes,Positive
+CUST_515,48,Male,High-Value,932,Low,SMS,9465,36198,Yes,Negative
+CUST_516,63,Male,High-Value,196,Low,App Notification,5013,41411,No,Negative
+CUST_517,19,Female,Medium-Value,715,High,Social Media,3769,70577,Yes,Negative
+CUST_518,52,Male,High-Value,353,Low,App Notification,5654,35867,No,Positive
+CUST_519,40,Female,Medium-Value,669,Medium,Email,3350,82501,No,Negative
+CUST_520,34,Female,High-Value,797,Low,Email,9997,34266,Yes,Positive
+CUST_521,43,Male,Medium-Value,869,Low,Social Media,6614,59422,No,Positive
+CUST_522,25,Male,Low-Value,913,Medium,App Notification,4857,55208,No,Positive
+CUST_523,46,Male,Low-Value,631,Low,Social Media,7147,51213,No,Positive
+CUST_524,43,Female,Medium-Value,744,Low,App Notification,8143,27367,Yes,Positive
+CUST_525,27,Male,Medium-Value,811,Medium,SMS,3862,99026,Yes,Positive
+CUST_526,43,Female,Medium-Value,277,Medium,Email,4682,55362,No,Positive
+CUST_527,51,Female,Medium-Value,151,Medium,Social Media,4997,71588,No,Negative
+CUST_528,58,Male,Medium-Value,636,Low,SMS,5268,58285,No,Negative
+CUST_529,24,Male,High-Value,466,Low,SMS,5680,94755,No,Negative
+CUST_530,21,Female,Low-Value,265,Medium,Social Media,8233,91846,No,Positive
+CUST_531,62,Female,Medium-Value,456,Medium,Social Media,1183,56307,No,Negative
+CUST_532,28,Female,High-Value,448,High,SMS,5807,115167,Yes,Negative
+CUST_533,46,Male,Medium-Value,972,High,App Notification,8743,100280,No,Positive
+CUST_534,53,Female,Medium-Value,764,High,SMS,9671,39867,No,Positive
+CUST_535,42,Male,Low-Value,753,Low,Social Media,2107,76523,No,Positive
+CUST_536,38,Female,Low-Value,810,Low,SMS,7124,104161,No,Positive
+CUST_537,53,Female,Low-Value,548,Medium,App Notification,9416,26378,Yes,Negative
+CUST_538,27,Male,High-Value,803,Low,Email,8937,104685,No,Negative
+CUST_539,54,Female,Medium-Value,514,Low,Email,4374,96958,No,Positive
+CUST_540,26,Male,Medium-Value,740,High,SMS,9280,47926,Yes,Negative
+CUST_541,41,Male,High-Value,998,High,App Notification,7465,118707,No,Negative
+CUST_542,52,Female,High-Value,780,Low,Email,9497,33180,Yes,Negative
+CUST_543,52,Male,Low-Value,131,Low,SMS,2190,112837,Yes,Positive
+CUST_544,53,Male,High-Value,653,Low,SMS,5796,56931,Yes,Negative
+CUST_545,35,Female,Medium-Value,996,High,App Notification,4198,44014,No,Positive
+CUST_546,56,Male,High-Value,736,High,Social Media,3975,116472,No,Positive
+CUST_547,49,Male,High-Value,800,Low,SMS,9312,99872,No,Positive
+CUST_548,41,Male,High-Value,821,Low,Social Media,4845,78502,No,Positive
+CUST_549,40,Female,Low-Value,952,High,Social Media,2261,107736,No,Negative
+CUST_550,49,Male,Low-Value,414,Low,Email,4687,25470,Yes,Positive
+CUST_551,54,Female,Low-Value,212,Medium,Social Media,4635,116395,Yes,Positive
+CUST_552,29,Female,Medium-Value,97,High,App Notification,2844,34953,No,Positive
+CUST_553,30,Male,High-Value,560,Low,Email,1245,58507,Yes,Negative
+CUST_554,40,Male,Medium-Value,378,Medium,Email,8151,112969,No,Positive
+CUST_555,42,Male,Medium-Value,889,Low,Email,6649,111493,No,Negative
+CUST_556,52,Female,Low-Value,165,Low,SMS,2881,26523,No,Positive
+CUST_557,58,Male,High-Value,990,High,SMS,3399,106923,No,Positive
+CUST_558,47,Male,Medium-Value,898,Low,Social Media,6968,77190,Yes,Positive
+CUST_559,34,Male,High-Value,386,High,Email,9330,67761,Yes,Positive
+CUST_560,37,Male,Medium-Value,930,Medium,Email,7640,51169,No,Positive
+CUST_561,42,Male,Low-Value,786,Low,App Notification,8833,65641,Yes,Positive
+CUST_562,39,Female,Medium-Value,913,Low,Social Media,2750,42990,No,Negative
+CUST_563,30,Female,Medium-Value,889,Low,App Notification,4425,49661,Yes,Negative
+CUST_564,36,Male,Medium-Value,196,Low,Social Media,796,33419,No,Positive
+CUST_565,53,Male,Medium-Value,624,Low,Social Media,6254,34457,No,Positive
+CUST_566,29,Male,Low-Value,855,Low,SMS,1705,87600,No,Negative
+CUST_567,58,Male,Low-Value,372,Low,SMS,9253,96102,Yes,Positive
+CUST_568,36,Female,Low-Value,492,Medium,App Notification,6668,53085,Yes,Positive
+CUST_569,29,Male,Low-Value,886,Medium,Social Media,7436,117064,No,Negative
+CUST_570,26,Female,Medium-Value,62,Medium,Email,1751,70654,Yes,Negative
+CUST_571,24,Female,Medium-Value,992,Low,SMS,7052,26130,No,Positive
+CUST_572,45,Male,Medium-Value,543,Low,Email,1649,22042,No,Positive
+CUST_573,31,Female,High-Value,750,Medium,App Notification,6153,90134,No,Positive
+CUST_574,48,Female,Low-Value,336,Low,SMS,8656,62982,No,Negative
+CUST_575,36,Female,High-Value,769,Low,SMS,8242,118422,Yes,Positive
+CUST_576,64,Female,Low-Value,163,High,Social Media,2859,85185,No,Positive
+CUST_577,33,Male,Medium-Value,529,Medium,App Notification,7709,53477,No,Positive
+CUST_578,22,Male,Medium-Value,71,Medium,Social Media,8093,72709,No,Positive
+CUST_579,52,Female,Medium-Value,398,Low,SMS,7645,48716,No,Negative
+CUST_580,29,Male,Low-Value,775,Medium,App Notification,2921,98137,No,Negative
+CUST_581,42,Male,Medium-Value,732,Medium,SMS,9854,56018,Yes,Negative
+CUST_582,38,Male,Medium-Value,884,Medium,App Notification,9837,28061,Yes,Positive
+CUST_583,53,Male,High-Value,615,Medium,SMS,3125,28609,No,Positive
+CUST_584,40,Male,Medium-Value,955,High,Email,7304,55371,Yes,Positive
+CUST_585,33,Female,High-Value,859,Medium,Email,6440,103021,No,Positive
+CUST_586,56,Male,Low-Value,369,Low,Social Media,712,40805,No,Negative
+CUST_587,62,Male,Medium-Value,175,Medium,Email,415,27857,Yes,Positive
+CUST_588,59,Male,Medium-Value,326,Medium,SMS,7499,31620,Yes,Positive
+CUST_589,56,Male,High-Value,253,Medium,SMS,3353,28177,No,Positive
+CUST_590,31,Female,High-Value,243,Low,Email,7650,50111,Yes,Negative
+CUST_591,48,Female,Low-Value,730,Low,Social Media,1906,108578,No,Positive
+CUST_592,22,Female,High-Value,713,High,Email,1767,104181,No,Positive
+CUST_593,52,Female,High-Value,596,Medium,App Notification,1328,109941,No,Positive
+CUST_594,40,Male,High-Value,745,High,App Notification,3710,31826,No,Negative
+CUST_595,46,Female,Low-Value,335,Medium,App Notification,8067,33890,Yes,Positive
+CUST_596,60,Male,Low-Value,106,Medium,Email,2565,102428,No,Negative
+CUST_597,28,Male,Medium-Value,783,Medium,Email,5783,78031,Yes,Negative
+CUST_598,35,Male,High-Value,352,High,Email,5097,95020,Yes,Positive
+CUST_599,64,Male,Medium-Value,212,Medium,App Notification,5918,25495,No,Negative
+CUST_600,29,Male,Low-Value,68,Medium,Social Media,6201,48481,No,Positive
+CUST_601,26,Female,Medium-Value,419,Low,SMS,4767,31267,Yes,Negative
+CUST_602,27,Female,High-Value,313,Low,Email,9471,26743,No,Positive
+CUST_603,61,Female,High-Value,843,Medium,Social Media,2941,74800,No,Positive
+CUST_604,34,Female,High-Value,162,Low,SMS,3220,68773,Yes,Positive
+CUST_605,55,Male,Medium-Value,537,Low,SMS,6456,77042,Yes,Positive
+CUST_606,24,Female,Low-Value,376,Low,SMS,428,69476,No,Negative
+CUST_607,63,Male,High-Value,591,Low,Social Media,8562,112105,No,Positive
+CUST_608,30,Female,High-Value,696,Low,Social Media,494,48552,No,Negative
+CUST_609,57,Male,High-Value,628,Low,App Notification,4484,85242,No,Positive
+CUST_610,59,Male,Low-Value,114,High,Social Media,8817,65772,Yes,Negative
+CUST_611,26,Female,High-Value,341,Medium,Social Media,7001,63730,No,Positive
+CUST_612,44,Male,Low-Value,74,Low,Social Media,1118,48948,No,Positive
+CUST_613,19,Male,Medium-Value,598,Low,SMS,698,96311,No,Positive
+CUST_614,22,Female,Medium-Value,50,Medium,Email,3009,89093,Yes,Negative
+CUST_615,46,Male,High-Value,960,Low,App Notification,5161,89123,Yes,Positive
+CUST_616,54,Female,High-Value,598,High,Email,9217,36535,Yes,Positive
+CUST_617,55,Female,Medium-Value,190,Medium,Email,3979,86490,No,Positive
+CUST_618,36,Female,Low-Value,793,Medium,Social Media,2318,66562,No,Negative
+CUST_619,25,Male,Medium-Value,697,Low,App Notification,6591,109080,No,Positive
+CUST_620,62,Male,Medium-Value,950,Medium,Email,345,78535,Yes,Positive
+CUST_621,18,Male,High-Value,237,Low,Email,8142,118991,Yes,Positive
+CUST_622,39,Female,Low-Value,177,High,App Notification,4765,61269,No,Negative
+CUST_623,34,Male,Low-Value,250,Medium,Social Media,392,100674,No,Negative
+CUST_624,24,Female,High-Value,176,Low,Email,5387,62462,No,Positive
+CUST_625,42,Female,Low-Value,306,Low,SMS,6837,23127,Yes,Positive
+CUST_626,62,Male,Medium-Value,725,Low,Email,8443,43147,No,Positive
+CUST_627,21,Female,Medium-Value,596,Medium,SMS,2610,65528,Yes,Positive
+CUST_628,53,Male,Low-Value,243,Low,Social Media,2020,97095,Yes,Positive
+CUST_629,23,Male,Low-Value,752,Medium,Email,3164,88931,No,Negative
+CUST_630,48,Male,Medium-Value,153,Low,App Notification,2721,110925,Yes,Positive
+CUST_631,36,Male,High-Value,584,Medium,App Notification,2768,86381,Yes,Negative
+CUST_632,61,Male,Medium-Value,314,High,Email,6082,119468,No,Positive
+CUST_633,56,Female,Low-Value,851,Medium,Social Media,2067,83749,No,Negative
+CUST_634,44,Female,High-Value,991,Medium,Social Media,7665,58672,No,Positive
+CUST_635,27,Female,Medium-Value,433,Low,App Notification,7802,33731,No,Positive
+CUST_636,43,Male,Medium-Value,309,Low,Email,3399,74512,Yes,Positive
+CUST_637,36,Male,Medium-Value,463,Medium,Social Media,6303,118658,Yes,Positive
+CUST_638,56,Male,Medium-Value,407,Low,App Notification,440,71024,No,Positive
+CUST_639,20,Female,Low-Value,124,Low,SMS,3640,23832,No,Negative
+CUST_640,62,Male,High-Value,404,Low,Email,4831,52332,No,Negative
+CUST_641,30,Female,High-Value,633,Low,SMS,9799,32467,Yes,Positive
+CUST_642,45,Female,High-Value,820,Low,SMS,8474,61025,No,Positive
+CUST_643,37,Male,Low-Value,959,High,Social Media,5277,33107,Yes,Positive
+CUST_644,45,Male,Medium-Value,237,Low,Social Media,3968,97994,No,Positive
+CUST_645,25,Female,High-Value,734,Medium,Social Media,9342,114202,No,Positive
+CUST_646,58,Male,Low-Value,339,Low,Email,8195,63481,No,Negative
+CUST_647,56,Female,Low-Value,94,Medium,SMS,9002,22581,No,Negative
+CUST_648,18,Male,Low-Value,622,Low,Email,6629,95118,No,Negative
+CUST_649,20,Male,Low-Value,132,High,Social Media,3805,71638,No,Positive
+CUST_650,30,Female,High-Value,172,High,SMS,2373,28418,No,Negative
+CUST_651,45,Male,Low-Value,407,Low,Email,9914,113627,Yes,Negative
+CUST_652,42,Female,Medium-Value,577,High,Email,6768,49113,No,Positive
+CUST_653,50,Male,Low-Value,115,High,App Notification,2801,104363,Yes,Positive
+CUST_654,55,Female,Low-Value,985,High,Email,2857,83044,No,Negative
+CUST_655,23,Female,Low-Value,706,High,Social Media,6280,99955,No,Positive
+CUST_656,61,Male,Medium-Value,424,Low,Email,7525,81030,No,Positive
+CUST_657,62,Female,High-Value,211,Medium,SMS,2359,31814,Yes,Positive
+CUST_658,49,Male,Medium-Value,795,Low,Email,4030,119340,Yes,Positive
+CUST_659,62,Male,Low-Value,429,Low,App Notification,8513,30024,No,Positive
+CUST_660,64,Male,Low-Value,705,High,SMS,4568,83288,No,Negative
+CUST_661,38,Female,High-Value,407,Low,SMS,1517,77836,No,Negative
+CUST_662,33,Female,High-Value,237,Medium,App Notification,4693,27435,Yes,Negative
+CUST_663,38,Male,High-Value,371,High,Social Media,1430,87084,No,Positive
+CUST_664,28,Male,Low-Value,499,High,SMS,1333,90601,No,Negative
+CUST_665,54,Female,Low-Value,523,High,Social Media,7807,108416,Yes,Positive
+CUST_666,53,Male,High-Value,62,Low,SMS,1501,23407,Yes,Positive
+CUST_667,52,Male,Medium-Value,233,Low,SMS,2110,118943,No,Positive
+CUST_668,36,Female,Low-Value,160,Low,Social Media,8282,52940,No,Positive
+CUST_669,37,Male,Low-Value,976,Low,SMS,8307,25666,No,Positive
+CUST_670,35,Female,Medium-Value,557,Low,Social Media,9897,57122,No,Positive
+CUST_671,64,Male,Medium-Value,339,Low,App Notification,8170,45092,No,Positive
+CUST_672,58,Female,Medium-Value,344,Medium,Social Media,2116,95645,No,Positive
+CUST_673,31,Male,High-Value,500,Medium,App Notification,7196,46505,Yes,Negative
+CUST_674,32,Male,Medium-Value,953,Low,SMS,2957,56713,Yes,Positive
+CUST_675,48,Female,Medium-Value,264,Medium,Social Media,6664,74387,No,Negative
+CUST_676,18,Male,Low-Value,681,Low,SMS,378,63169,No,Positive
+CUST_677,20,Female,Medium-Value,943,Low,Social Media,9288,93282,No,Positive
+CUST_678,33,Male,Low-Value,616,Medium,App Notification,6562,97511,No,Negative
+CUST_679,40,Female,High-Value,76,Medium,App Notification,9943,71742,Yes,Positive
+CUST_680,28,Female,Medium-Value,679,Medium,Social Media,8883,60522,No,Positive
+CUST_681,29,Female,High-Value,782,Low,App Notification,260,101132,Yes,Negative
+CUST_682,27,Female,High-Value,280,High,SMS,9469,119397,No,Positive
+CUST_683,49,Male,Low-Value,614,Medium,SMS,6881,23880,No,Negative
+CUST_684,33,Male,Low-Value,856,Medium,Email,3095,63454,No,Positive
+CUST_685,25,Female,High-Value,370,Medium,App Notification,785,75711,No,Positive
+CUST_686,55,Female,Medium-Value,962,High,SMS,6023,63539,Yes,Positive
+CUST_687,29,Female,Low-Value,282,Medium,Social Media,734,88321,No,Positive
+CUST_688,41,Male,High-Value,719,Medium,App Notification,3662,107985,Yes,Negative
+CUST_689,45,Male,Medium-Value,486,High,SMS,4211,34799,No,Negative
+CUST_690,25,Male,Low-Value,830,Medium,App Notification,3598,80102,No,Positive
+CUST_691,45,Male,Medium-Value,582,Low,Social Media,2355,70726,No,Positive
+CUST_692,53,Female,High-Value,452,Medium,SMS,6166,68784,No,Negative
+CUST_693,43,Female,Medium-Value,102,Low,Email,7529,63333,Yes,Positive
+CUST_694,25,Female,Low-Value,836,Low,Email,7157,60828,No,Positive
+CUST_695,45,Male,Medium-Value,362,Medium,App Notification,9396,89526,Yes,Positive
+CUST_696,45,Male,High-Value,330,High,Social Media,5525,74362,No,Positive
+CUST_697,54,Male,Low-Value,775,High,SMS,8718,73997,Yes,Negative
+CUST_698,58,Female,High-Value,80,Low,Social Media,4903,70341,Yes,Negative
+CUST_699,53,Female,Low-Value,386,Medium,SMS,2906,39073,No,Positive
+CUST_700,44,Male,High-Value,232,Low,App Notification,201,34549,No,Positive
+CUST_701,34,Female,Low-Value,72,High,SMS,9425,103795,Yes,Positive
+CUST_702,26,Male,Medium-Value,593,High,Social Media,8516,76920,Yes,Positive
+CUST_703,50,Male,Medium-Value,495,Medium,Social Media,1304,105326,No,Positive
+CUST_704,37,Female,High-Value,123,High,App Notification,2061,95515,Yes,Negative
+CUST_705,30,Male,Medium-Value,59,Medium,Social Media,5469,40316,Yes,Positive
+CUST_706,45,Female,Low-Value,533,Medium,SMS,7143,46183,No,Positive
+CUST_707,46,Male,Low-Value,505,Low,App Notification,8520,113860,Yes,Positive
+CUST_708,30,Female,Medium-Value,615,Low,SMS,637,44624,No,Positive
+CUST_709,63,Female,Medium-Value,613,Medium,Social Media,5046,82515,No,Positive
+CUST_710,52,Female,Low-Value,709,Medium,App Notification,3329,105781,No,Negative
+CUST_711,23,Male,Low-Value,209,Low,SMS,9613,66705,No,Positive
+CUST_712,35,Male,Medium-Value,931,High,Social Media,8281,109326,No,Negative
+CUST_713,22,Female,Medium-Value,63,Low,Social Media,1101,46756,Yes,Positive
+CUST_714,64,Female,Medium-Value,227,Medium,Email,5598,80390,Yes,Positive
+CUST_715,42,Male,Medium-Value,461,Medium,Social Media,6878,88369,No,Positive
+CUST_716,19,Male,High-Value,927,Medium,SMS,5729,90821,Yes,Positive
+CUST_717,27,Male,Medium-Value,102,Medium,App Notification,6804,29589,No,Positive
+CUST_718,47,Female,Medium-Value,457,Low,Email,4118,34116,No,Positive
+CUST_719,62,Male,Low-Value,896,Low,Social Media,1267,93181,Yes,Negative
+CUST_720,22,Male,High-Value,71,Medium,Social Media,226,64786,No,Negative
+CUST_721,50,Female,Medium-Value,79,Medium,Social Media,7137,114686,No,Positive
+CUST_722,18,Male,Medium-Value,752,Low,SMS,7464,96425,No,Positive
+CUST_723,35,Male,Medium-Value,309,Medium,Email,7318,50286,No,Positive
+CUST_724,49,Male,High-Value,254,Low,SMS,747,35994,No,Positive
+CUST_725,64,Female,Medium-Value,108,Medium,Email,8958,110198,No,Positive
+CUST_726,28,Female,Medium-Value,520,High,App Notification,9095,46639,No,Negative
+CUST_727,38,Female,Medium-Value,825,Low,SMS,5538,37205,No,Positive
+CUST_728,43,Female,Medium-Value,515,Low,SMS,3340,76677,Yes,Positive
+CUST_729,42,Female,Medium-Value,61,Medium,App Notification,8196,52930,Yes,Positive
+CUST_730,39,Female,Low-Value,680,Medium,Email,1790,93313,No,Positive
+CUST_731,44,Female,High-Value,976,Medium,Social Media,7976,113851,Yes,Negative
+CUST_732,30,Male,Low-Value,339,High,App Notification,5143,112509,Yes,Positive
+CUST_733,50,Male,Medium-Value,899,High,Social Media,9197,38316,No,Positive
+CUST_734,51,Female,High-Value,809,High,Social Media,7998,47304,Yes,Negative
+CUST_735,58,Male,High-Value,403,Medium,App Notification,3991,116058,No,Positive
+CUST_736,52,Male,Medium-Value,688,Low,Email,1557,107876,No,Negative
+CUST_737,18,Female,Low-Value,124,Low,Social Media,8292,105366,No,Positive
+CUST_738,38,Male,Low-Value,922,Low,App Notification,3425,33403,No,Positive
+CUST_739,23,Male,Low-Value,765,Medium,SMS,2660,100052,Yes,Negative
+CUST_740,45,Male,Medium-Value,610,Low,SMS,8937,104627,No,Positive
+CUST_741,34,Male,Medium-Value,640,High,SMS,2928,93495,No,Positive
+CUST_742,22,Male,High-Value,490,Medium,App Notification,6926,51932,No,Positive
+CUST_743,48,Female,Medium-Value,290,Medium,SMS,7681,116090,No,Positive
+CUST_744,22,Female,Medium-Value,910,Low,Social Media,6630,56701,Yes,Negative
+CUST_745,55,Female,High-Value,203,Low,SMS,3314,23385,No,Negative
+CUST_746,20,Male,High-Value,835,Low,SMS,816,119226,Yes,Negative
+CUST_747,40,Female,Medium-Value,145,Low,Social Media,3844,77241,No,Negative
+CUST_748,54,Male,Low-Value,775,Low,SMS,6613,30367,No,Positive
+CUST_749,54,Male,Low-Value,343,Medium,Social Media,1403,85030,Yes,Positive
+CUST_750,27,Male,Low-Value,258,High,SMS,2765,66505,Yes,Positive
+CUST_751,27,Male,Medium-Value,392,High,Social Media,3374,53332,Yes,Positive
+CUST_752,36,Female,Medium-Value,137,Medium,SMS,3281,105178,No,Positive
+CUST_753,34,Female,Medium-Value,867,Low,Social Media,2830,96325,No,Negative
+CUST_754,38,Male,Low-Value,825,High,App Notification,3361,55268,Yes,Positive
+CUST_755,31,Female,High-Value,986,High,Social Media,4521,106486,No,Positive
+CUST_756,26,Male,Medium-Value,439,Low,SMS,9061,45563,Yes,Positive
+CUST_757,63,Female,Low-Value,374,Medium,SMS,6469,56404,No,Negative
+CUST_758,18,Female,Medium-Value,989,Low,Email,7299,75182,Yes,Negative
+CUST_759,62,Male,Medium-Value,938,High,Social Media,7576,52991,No,Negative
+CUST_760,30,Female,Medium-Value,881,High,App Notification,4278,67663,No,Positive
+CUST_761,21,Male,High-Value,206,Low,Social Media,6001,85886,No,Negative
+CUST_762,18,Female,Medium-Value,717,High,Social Media,4351,103848,No,Positive
+CUST_763,57,Male,Medium-Value,700,Medium,App Notification,9111,44127,No,Negative
+CUST_764,49,Male,High-Value,682,High,Social Media,2800,77692,No,Positive
+CUST_765,51,Female,High-Value,626,Low,App Notification,6375,114389,No,Positive
+CUST_766,45,Female,Low-Value,668,High,App Notification,866,57500,No,Positive
+CUST_767,48,Male,High-Value,708,Low,Social Media,483,53785,No,Negative
+CUST_768,25,Female,Medium-Value,186,Low,Social Media,6040,104146,Yes,Positive
+CUST_769,56,Female,High-Value,972,Low,SMS,3765,109126,No,Negative
+CUST_770,43,Male,Low-Value,723,High,SMS,4793,114979,Yes,Positive
+CUST_771,51,Male,High-Value,477,High,Email,1665,67997,No,Positive
+CUST_772,20,Female,Medium-Value,501,High,Email,8521,27170,No,Positive
+CUST_773,29,Male,Low-Value,661,High,Social Media,4934,33303,No,Positive
+CUST_774,18,Male,Low-Value,899,Low,App Notification,6457,91743,Yes,Positive
+CUST_775,61,Male,High-Value,960,Low,Email,7566,97852,Yes,Positive
+CUST_776,22,Female,Low-Value,868,Low,Social Media,3872,55187,No,Negative
+CUST_777,47,Female,Medium-Value,190,Low,Email,7582,85034,No,Positive
+CUST_778,47,Male,Medium-Value,132,Low,App Notification,6787,91776,Yes,Negative
+CUST_779,34,Female,High-Value,226,Low,Social Media,1192,21893,No,Positive
+CUST_780,64,Male,High-Value,247,Low,App Notification,7058,33753,No,Negative
+CUST_781,40,Female,Low-Value,673,Low,Social Media,2321,58090,No,Positive
+CUST_782,32,Male,Medium-Value,617,Low,Email,2423,84922,Yes,Positive
+CUST_783,54,Male,Medium-Value,740,Low,SMS,4722,96768,No,Positive
+CUST_784,38,Female,Low-Value,470,High,Email,3388,79412,Yes,Positive
+CUST_785,31,Male,Low-Value,450,Medium,Email,3437,76030,No,Negative
+CUST_786,19,Female,High-Value,747,High,SMS,4336,37509,Yes,Positive
+CUST_787,28,Female,Medium-Value,520,Low,SMS,543,88653,Yes,Positive
+CUST_788,56,Male,High-Value,267,Low,Social Media,4904,56929,Yes,Negative
+CUST_789,55,Male,Low-Value,974,Medium,Social Media,5023,68291,Yes,Positive
+CUST_790,51,Female,Medium-Value,978,Low,App Notification,5120,24042,No,Negative
+CUST_791,55,Male,Low-Value,877,Low,App Notification,3401,82574,Yes,Positive
+CUST_792,51,Male,High-Value,778,Low,Email,5671,57201,Yes,Negative
+CUST_793,35,Male,High-Value,681,Low,SMS,1088,112282,No,Positive
+CUST_794,47,Male,High-Value,955,Low,App Notification,9733,34016,Yes,Positive
+CUST_795,32,Male,High-Value,224,Low,Email,7327,45022,Yes,Positive
+CUST_796,44,Female,High-Value,72,Medium,SMS,3920,47938,No,Negative
+CUST_797,51,Female,Low-Value,774,Low,Social Media,3083,63678,No,Positive
+CUST_798,55,Male,High-Value,966,Low,Email,4412,81720,No,Positive
+CUST_799,50,Male,High-Value,284,High,Social Media,7161,76805,No,Negative
+CUST_800,41,Male,Low-Value,62,Low,App Notification,2615,94323,No,Negative
+CUST_801,32,Female,Medium-Value,150,Low,App Notification,9509,21986,Yes,Negative
+CUST_802,47,Male,Low-Value,978,High,SMS,3201,96478,No,Negative
+CUST_803,59,Female,High-Value,585,Low,Email,1938,102994,No,Positive
+CUST_804,34,Female,Medium-Value,925,Low,Social Media,1564,32161,No,Positive
+CUST_805,22,Female,High-Value,572,Low,SMS,2908,40689,No,Negative
+CUST_806,46,Male,High-Value,834,Low,App Notification,1124,114699,Yes,Negative
+CUST_807,21,Female,Low-Value,501,Medium,App Notification,351,80924,No,Positive
+CUST_808,27,Male,High-Value,480,High,Email,8977,119273,No,Positive
+CUST_809,34,Female,Medium-Value,842,Low,Social Media,8244,94308,No,Negative
+CUST_810,27,Male,Medium-Value,655,Medium,Email,1112,83745,Yes,Positive
+CUST_811,34,Female,Medium-Value,762,Medium,Social Media,2521,21211,Yes,Positive
+CUST_812,37,Male,Low-Value,582,Low,Social Media,695,20229,Yes,Positive
+CUST_813,41,Female,High-Value,901,Medium,Email,2348,68542,No,Positive
+CUST_814,22,Male,Medium-Value,772,Low,SMS,756,34345,Yes,Negative
+CUST_815,51,Male,Low-Value,701,Low,Email,1752,51819,Yes,Positive
+CUST_816,23,Male,Medium-Value,342,Low,Email,2320,67779,No,Negative
+CUST_817,19,Male,Low-Value,859,Low,App Notification,3285,102421,Yes,Positive
+CUST_818,30,Female,High-Value,962,Low,App Notification,3704,112244,No,Positive
+CUST_819,60,Female,Medium-Value,150,High,Email,356,85584,Yes,Negative
+CUST_820,60,Male,High-Value,551,Low,Email,9126,39950,No,Positive
+CUST_821,28,Female,Low-Value,353,Low,App Notification,7705,35173,No,Positive
+CUST_822,64,Male,Low-Value,920,Low,Social Media,7362,78032,No,Positive
+CUST_823,40,Male,High-Value,589,Medium,Email,5723,119273,No,Positive
+CUST_824,33,Female,Medium-Value,602,Medium,SMS,7743,48036,Yes,Positive
+CUST_825,48,Male,High-Value,404,Medium,SMS,8255,91356,Yes,Negative
+CUST_826,28,Male,Medium-Value,352,Medium,SMS,4854,34292,Yes,Negative
+CUST_827,33,Female,Medium-Value,545,High,Email,6450,23052,No,Negative
+CUST_828,25,Male,Low-Value,707,Low,Social Media,7446,64377,No,Positive
+CUST_829,21,Male,Medium-Value,817,Medium,Social Media,354,109317,No,Positive
+CUST_830,57,Male,Medium-Value,276,High,App Notification,8150,87838,No,Positive
+CUST_831,21,Male,High-Value,285,High,Email,1196,87819,Yes,Positive
+CUST_832,42,Female,High-Value,922,High,Social Media,4826,35620,No,Positive
+CUST_833,20,Female,High-Value,941,Low,Email,3105,50461,No,Positive
+CUST_834,49,Female,High-Value,504,Low,App Notification,9569,40750,Yes,Negative
+CUST_835,20,Male,Low-Value,62,Low,App Notification,353,118426,No,Positive
+CUST_836,44,Male,Medium-Value,259,Medium,App Notification,8053,108719,Yes,Positive
+CUST_837,46,Female,Medium-Value,790,Low,SMS,6681,29472,No,Negative
+CUST_838,49,Male,High-Value,446,Low,Email,5799,89263,No,Positive
+CUST_839,36,Male,Low-Value,149,High,App Notification,1916,77602,Yes,Negative
+CUST_840,38,Male,Low-Value,80,Low,Email,986,45523,No,Negative
+CUST_841,22,Male,High-Value,947,High,SMS,4568,50766,Yes,Negative
+CUST_842,35,Female,Low-Value,577,Low,SMS,8296,86060,No,Positive
+CUST_843,45,Female,Medium-Value,698,Low,App Notification,4472,29079,No,Negative
+CUST_844,59,Female,High-Value,378,Low,App Notification,3967,28399,Yes,Positive
+CUST_845,39,Male,Medium-Value,215,Medium,Social Media,9034,80726,No,Negative
+CUST_846,38,Female,Medium-Value,508,Low,Email,6194,112906,No,Positive
+CUST_847,23,Female,High-Value,871,Low,App Notification,7416,36532,Yes,Positive
+CUST_848,18,Male,Low-Value,149,High,Social Media,9057,102357,Yes,Positive
+CUST_849,22,Male,Low-Value,670,Low,Email,3626,63162,No,Positive
+CUST_850,58,Female,Medium-Value,904,Medium,App Notification,3983,23749,No,Negative
+CUST_851,29,Female,Medium-Value,222,Medium,Social Media,5627,31353,Yes,Negative
+CUST_852,43,Female,Medium-Value,798,Low,Social Media,7211,48477,Yes,Negative
+CUST_853,63,Female,Medium-Value,211,Medium,Email,8252,44570,Yes,Positive
+CUST_854,51,Male,Medium-Value,954,Low,Social Media,3901,106373,No,Negative
+CUST_855,31,Female,High-Value,777,Medium,Email,9461,31437,Yes,Positive
+CUST_856,43,Female,Medium-Value,825,Low,Email,2549,58104,Yes,Negative
+CUST_857,62,Male,Low-Value,312,Medium,Email,7211,83370,No,Negative
+CUST_858,44,Female,Medium-Value,853,Low,SMS,7255,24551,No,Positive
+CUST_859,26,Male,High-Value,323,Medium,Social Media,1412,88359,Yes,Negative
+CUST_860,43,Male,Low-Value,52,Low,Email,7165,74880,No,Positive
+CUST_861,64,Male,High-Value,77,Low,App Notification,9544,32916,No,Positive
+CUST_862,39,Female,High-Value,375,Low,SMS,6904,100703,Yes,Positive
+CUST_863,64,Female,High-Value,989,Low,SMS,7633,61445,Yes,Positive
+CUST_864,47,Male,Medium-Value,198,High,Social Media,2711,67636,No,Negative
+CUST_865,60,Female,Low-Value,589,Low,Email,343,93927,Yes,Positive
+CUST_866,34,Female,Medium-Value,537,High,Social Media,7567,98194,No,Positive
+CUST_867,43,Male,High-Value,871,High,SMS,3428,49685,No,Positive
+CUST_868,53,Male,Low-Value,487,Medium,Email,4782,71134,Yes,Negative
+CUST_869,18,Female,Low-Value,114,Low,App Notification,6231,108916,Yes,Negative
+CUST_870,25,Male,Low-Value,405,Low,Email,4443,114455,No,Negative
+CUST_871,52,Female,High-Value,582,Medium,SMS,9749,87847,No,Negative
+CUST_872,32,Female,Medium-Value,301,Low,App Notification,2913,59993,No,Positive
+CUST_873,64,Female,Low-Value,284,Low,Email,4385,64333,No,Positive
+CUST_874,39,Female,Low-Value,276,Medium,App Notification,9749,78865,Yes,Positive
+CUST_875,31,Male,High-Value,574,High,App Notification,7528,99096,No,Positive
+CUST_876,43,Male,High-Value,362,Medium,SMS,4833,69756,No,Negative
+CUST_877,45,Male,Medium-Value,98,Low,App Notification,3392,81192,No,Positive
+CUST_878,40,Male,Low-Value,167,Medium,Social Media,500,80686,Yes,Negative
+CUST_879,31,Female,Medium-Value,103,Low,SMS,923,68733,Yes,Positive
+CUST_880,41,Female,Medium-Value,699,Low,Social Media,5894,45993,No,Positive
+CUST_881,19,Male,High-Value,614,High,App Notification,3210,50492,No,Positive
+CUST_882,62,Female,Medium-Value,93,Low,Social Media,5755,40981,Yes,Negative
+CUST_883,43,Female,Low-Value,864,Low,Email,267,44143,Yes,Negative
+CUST_884,31,Female,Medium-Value,102,Low,App Notification,2706,97603,No,Negative
+CUST_885,24,Male,Low-Value,635,High,Email,1737,109452,No,Positive
+CUST_886,20,Male,Low-Value,607,Medium,Social Media,597,80277,Yes,Negative
+CUST_887,64,Male,High-Value,574,Medium,Email,5880,69990,Yes,Positive
+CUST_888,40,Female,Medium-Value,726,Medium,App Notification,9555,82888,Yes,Positive
+CUST_889,63,Male,High-Value,151,Low,Email,5025,89351,No,Negative
+CUST_890,60,Male,Low-Value,841,Low,Social Media,8947,117372,No,Positive
+CUST_891,64,Male,Medium-Value,819,Low,Social Media,6248,69999,No,Negative
+CUST_892,62,Male,Medium-Value,898,Low,Social Media,3861,90309,No,Positive
+CUST_893,35,Male,Low-Value,917,Low,App Notification,3141,32446,Yes,Positive
+CUST_894,55,Male,Medium-Value,447,High,Social Media,7267,50733,No,Negative
+CUST_895,52,Female,Low-Value,187,Low,App Notification,5291,96000,No,Positive
+CUST_896,32,Female,Medium-Value,724,Low,Email,1801,68632,Yes,Negative
+CUST_897,42,Male,High-Value,970,Low,Social Media,1680,41576,Yes,Positive
+CUST_898,54,Male,Medium-Value,436,Low,Email,6430,23320,No,Negative
+CUST_899,45,Female,Low-Value,160,High,SMS,9494,30750,No,Positive
+CUST_900,27,Female,Medium-Value,663,Low,Email,3476,73463,Yes,Positive
+CUST_901,56,Male,Low-Value,66,Low,SMS,6647,46572,No,Positive
+CUST_902,34,Male,Low-Value,829,Medium,Email,5699,37948,No,Positive
+CUST_903,56,Male,High-Value,231,Low,App Notification,6473,58826,Yes,Negative
+CUST_904,39,Male,Low-Value,933,Low,Email,1499,109051,Yes,Positive
+CUST_905,43,Female,High-Value,585,Low,App Notification,6018,47867,Yes,Positive
+CUST_906,61,Male,High-Value,590,Medium,App Notification,6901,80231,No,Positive
+CUST_907,42,Male,High-Value,220,High,Social Media,5194,86262,Yes,Positive
+CUST_908,34,Male,Low-Value,458,Medium,App Notification,7689,111356,Yes,Negative
+CUST_909,30,Male,Medium-Value,789,Low,SMS,9927,92233,No,Negative
+CUST_910,37,Female,High-Value,427,High,Social Media,8469,64678,No,Positive
+CUST_911,42,Female,Medium-Value,237,Low,Social Media,3031,32963,Yes,Negative
+CUST_912,21,Female,Medium-Value,907,Low,Email,2921,84360,No,Positive
+CUST_913,27,Male,High-Value,279,Low,App Notification,1732,69434,No,Positive
+CUST_914,20,Male,Low-Value,882,Low,App Notification,8629,86617,No,Negative
+CUST_915,58,Female,Low-Value,901,Medium,SMS,5453,40269,No,Positive
+CUST_916,62,Male,Medium-Value,168,Medium,Email,2196,96312,Yes,Negative
+CUST_917,35,Male,Low-Value,205,High,Email,5511,117352,No,Negative
+CUST_918,64,Female,Medium-Value,833,Medium,Social Media,477,99732,No,Positive
+CUST_919,53,Female,Low-Value,736,Medium,Social Media,3289,101494,No,Negative
+CUST_920,64,Female,Medium-Value,514,Low,Social Media,723,108905,No,Negative
+CUST_921,39,Female,Medium-Value,153,Low,SMS,4475,97225,No,Positive
+CUST_922,51,Male,High-Value,653,Medium,SMS,5565,102867,Yes,Negative
+CUST_923,64,Male,Low-Value,747,Low,Social Media,3322,57528,No,Positive
+CUST_924,25,Female,Medium-Value,844,High,Email,8367,98972,No,Negative
+CUST_925,57,Male,High-Value,551,Low,SMS,5390,85602,No,Negative
+CUST_926,61,Female,High-Value,742,Low,Email,4775,116261,Yes,Positive
+CUST_927,36,Female,Medium-Value,731,Low,Email,7927,110748,No,Positive
+CUST_928,59,Male,Medium-Value,748,Low,App Notification,1997,53332,No,Negative
+CUST_929,58,Female,Low-Value,224,Low,Social Media,2331,110937,Yes,Positive
+CUST_930,54,Male,Low-Value,783,Medium,App Notification,7522,98929,No,Positive
+CUST_931,23,Male,High-Value,794,Low,Social Media,6700,89206,No,Positive
+CUST_932,43,Male,Low-Value,723,Medium,Social Media,1015,111137,No,Positive
+CUST_933,51,Male,High-Value,470,Low,Email,8834,22251,No,Positive
+CUST_934,62,Female,Low-Value,183,Low,Social Media,6866,65717,No,Positive
+CUST_935,23,Male,Low-Value,440,Low,Email,342,119108,Yes,Positive
+CUST_936,54,Female,Medium-Value,785,High,Email,1610,47027,No,Negative
+CUST_937,50,Female,Low-Value,550,Low,Social Media,734,117382,No,Positive
+CUST_938,39,Female,Medium-Value,714,Medium,Email,3564,106551,No,Positive
+CUST_939,38,Female,Medium-Value,82,Low,Email,1232,29583,No,Positive
+CUST_940,23,Male,Low-Value,104,Medium,Email,3542,70387,No,Positive
+CUST_941,23,Male,Medium-Value,568,Low,SMS,9802,43104,Yes,Positive
+CUST_942,21,Female,Medium-Value,805,Medium,Email,6285,32224,No,Positive
+CUST_943,47,Female,Medium-Value,874,Medium,SMS,4700,80624,Yes,Positive
+CUST_944,28,Male,Low-Value,687,High,SMS,1372,76058,Yes,Negative
+CUST_945,47,Female,Medium-Value,61,Low,Email,9280,116372,Yes,Negative
+CUST_946,48,Male,High-Value,577,Low,Email,4717,49299,No,Negative
+CUST_947,41,Female,Low-Value,769,Low,SMS,8207,98572,Yes,Negative
+CUST_948,26,Male,Low-Value,604,High,SMS,1841,105469,Yes,Negative
+CUST_949,20,Female,High-Value,422,Medium,Email,671,97928,Yes,Positive
+CUST_950,48,Female,High-Value,533,Medium,Email,3140,93474,Yes,Negative
+CUST_951,57,Male,High-Value,696,Low,Social Media,8938,24141,No,Positive
+CUST_952,54,Female,Medium-Value,277,Low,SMS,4926,43350,No,Negative
+CUST_953,53,Female,Medium-Value,672,Low,SMS,7870,95082,Yes,Negative
+CUST_954,41,Male,Low-Value,356,High,Social Media,3923,90871,No,Positive
+CUST_955,48,Female,Medium-Value,506,Medium,SMS,563,25077,No,Positive
+CUST_956,23,Male,Medium-Value,209,High,App Notification,3509,66015,No,Positive
+CUST_957,19,Male,Medium-Value,380,Low,SMS,745,91147,Yes,Negative
+CUST_958,37,Female,Low-Value,825,Medium,Social Media,3440,79180,No,Negative
+CUST_959,45,Female,Medium-Value,274,Medium,App Notification,6865,60857,Yes,Negative
+CUST_960,28,Female,Low-Value,778,Low,Email,2136,79840,Yes,Positive
+CUST_961,21,Female,Medium-Value,553,High,Social Media,9354,79902,Yes,Negative
+CUST_962,32,Female,High-Value,505,High,Social Media,1082,25577,No,Positive
+CUST_963,23,Female,Medium-Value,94,High,Email,4040,40002,Yes,Negative
+CUST_964,47,Female,Medium-Value,263,Medium,Social Media,7123,70711,Yes,Positive
+CUST_965,55,Male,Medium-Value,108,Low,SMS,9262,59451,Yes,Positive
+CUST_966,19,Female,High-Value,693,Low,Email,4811,119811,No,Positive
+CUST_967,32,Male,High-Value,665,High,Social Media,9257,69103,No,Negative
+CUST_968,28,Female,Low-Value,244,Low,Email,5404,48647,Yes,Negative
+CUST_969,25,Female,High-Value,974,Medium,Email,7488,54831,No,Positive
+CUST_970,43,Male,Low-Value,538,Medium,Email,3403,116498,No,Positive
+CUST_971,62,Female,High-Value,206,Medium,App Notification,2444,115119,No,Negative
+CUST_972,61,Female,Medium-Value,659,High,Social Media,218,86830,Yes,Positive
+CUST_973,22,Male,Medium-Value,275,Low,App Notification,841,100632,No,Negative
+CUST_974,23,Female,Medium-Value,461,Low,Social Media,3283,56833,Yes,Positive
+CUST_975,43,Female,Medium-Value,254,Low,SMS,5400,112864,No,Positive
+CUST_976,21,Female,High-Value,128,Low,SMS,8721,44398,Yes,Negative
+CUST_977,36,Male,High-Value,173,Low,SMS,1065,81554,Yes,Negative
+CUST_978,37,Female,Medium-Value,520,Low,Social Media,973,70755,Yes,Positive
+CUST_979,50,Female,Medium-Value,989,High,Email,4932,37706,No,Positive
+CUST_980,37,Female,Low-Value,267,High,Email,3718,42340,Yes,Negative
+CUST_981,29,Female,Low-Value,565,Low,App Notification,6995,84994,No,Positive
+CUST_982,64,Male,Low-Value,651,Low,App Notification,7184,83884,Yes,Negative
+CUST_983,18,Male,Low-Value,153,High,SMS,2767,104361,No,Positive
+CUST_984,43,Female,Medium-Value,442,Low,App Notification,1874,37482,No,Positive
+CUST_985,31,Female,High-Value,680,Low,Social Media,939,74225,No,Negative
+CUST_986,55,Male,Low-Value,694,Low,Social Media,1745,78849,No,Negative
+CUST_987,54,Male,Medium-Value,873,Medium,App Notification,9527,94854,No,Positive
+CUST_988,28,Female,Medium-Value,657,Low,App Notification,5327,61256,Yes,Negative
+CUST_989,53,Male,High-Value,483,High,App Notification,7147,101110,No,Positive
+CUST_990,30,Female,Medium-Value,380,Low,App Notification,6820,34650,Yes,Positive
+CUST_991,60,Male,Medium-Value,192,Medium,SMS,9265,66118,No,Negative
+CUST_992,20,Male,Low-Value,849,Low,SMS,4755,48930,No,Negative
+CUST_993,50,Male,Medium-Value,589,Low,App Notification,5845,105707,Yes,Negative
+CUST_994,23,Male,Medium-Value,327,Medium,Social Media,9143,31801,Yes,Positive
+CUST_995,27,Female,Low-Value,282,Medium,SMS,7324,71360,No,Positive
+CUST_996,22,Male,High-Value,578,Medium,Social Media,9245,107908,No,Positive
+CUST_997,40,Male,Medium-Value,620,Medium,Email,3932,36559,No,Positive
+CUST_998,27,Female,High-Value,139,High,Social Media,2483,52334,No,Negative
+CUST_999,61,Male,Low-Value,541,High,App Notification,9721,33288,No,Positive
+CUST_1000,19,Male,Low-Value,248,Medium,Email,8869,42398,No,Negative
